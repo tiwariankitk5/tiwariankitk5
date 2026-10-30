@@ -20,7 +20,7 @@ I enjoy understanding how software works internally, designing APIs, solving alg
 Java, JavaScript, Python
 
 **Backend**
-Spring Boot, REST APIs, Node.js
+Spring Boot, REST APIs
 
 **Databases**
 PostgreSQL, MongoDB
